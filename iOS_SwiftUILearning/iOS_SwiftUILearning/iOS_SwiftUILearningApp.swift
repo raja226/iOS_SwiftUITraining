@@ -13,7 +13,8 @@ struct iOS_SwiftUILearningApp: App {
         WindowGroup {
            // ContentView()
             //MyForms()
-            StateVarialble()
+           // StateVarialble()
+            StateBinding()
         }
     }
 }
