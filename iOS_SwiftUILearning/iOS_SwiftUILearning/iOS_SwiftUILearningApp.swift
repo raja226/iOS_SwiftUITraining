@@ -14,7 +14,8 @@ struct iOS_SwiftUILearningApp: App {
            // ContentView()
             //MyForms()
            // StateVarialble()
-            StateBinding()
+           // StateBinding()
+            CreatingviewsInLoop()
         }
     }
 }
