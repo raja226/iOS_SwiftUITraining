@@ -7,6 +7,15 @@
 
 import SwiftUI
 
+extension UIApplication {
+    func endEditing(_ force: Bool) {
+        self.windows
+            .filter {$0.isKeyWindow}
+            .first?
+            .endEditing(force)
+    }
+}
+
 struct Textfieldview: View {
     @State public var amount = 0.0
     var body: some View {
@@ -22,6 +31,9 @@ struct Textfieldview: View {
                 Text(amount, format: .currency(code: Locale.current.currency?.identifier ?? "USD"))
             }
 
+        }
+        .onTapGesture {
+            UIApplication.shared.endEditing(true)
         }
     }
 }
