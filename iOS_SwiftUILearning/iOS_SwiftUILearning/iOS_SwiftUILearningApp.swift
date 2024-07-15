@@ -12,7 +12,8 @@ struct iOS_SwiftUILearningApp: App {
     var body: some Scene {
         WindowGroup {
            // ContentView()
-            MyForms()
+            //MyForms()
+            StateVarialble()
         }
     }
 }

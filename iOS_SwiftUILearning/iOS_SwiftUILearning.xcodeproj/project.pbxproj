@@ -13,6 +13,7 @@
 		BE0B8C9F2C43B273009B2189 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE0B8C9E2C43B273009B2189 /* Preview Assets.xcassets */; };
 		BE0B8CA62C440681009B2189 /* Hexgonal.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CA52C440681009B2189 /* Hexgonal.swift */; };
 		BE0B8CA82C454175009B2189 /* MyForms.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CA72C454175009B2189 /* MyForms.swift */; };
+		BE0B8CAA2C455B6C009B2189 /* StateVarialble.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CA92C455B6C009B2189 /* StateVarialble.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BE0B8C9E2C43B273009B2189 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BE0B8CA52C440681009B2189 /* Hexgonal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hexgonal.swift; sourceTree = "<group>"; };
 		BE0B8CA72C454175009B2189 /* MyForms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyForms.swift; sourceTree = "<group>"; };
+		BE0B8CA92C455B6C009B2189 /* StateVarialble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateVarialble.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				BE0B8C962C43B266009B2189 /* iOS_SwiftUILearningApp.swift */,
 				BE0B8C982C43B266009B2189 /* ContentView.swift */,
 				BE0B8CA72C454175009B2189 /* MyForms.swift */,
+				BE0B8CA92C455B6C009B2189 /* StateVarialble.swift */,
 				BE0B8CA52C440681009B2189 /* Hexgonal.swift */,
 				BE0B8C9A2C43B273009B2189 /* Assets.xcassets */,
 				BE0B8C9C2C43B273009B2189 /* iOS_SwiftUILearning.entitlements */,
@@ -147,6 +150,7 @@
 			files = (
 				BE0B8C992C43B266009B2189 /* ContentView.swift in Sources */,
 				BE0B8CA82C454175009B2189 /* MyForms.swift in Sources */,
+				BE0B8CAA2C455B6C009B2189 /* StateVarialble.swift in Sources */,
 				BE0B8C972C43B266009B2189 /* iOS_SwiftUILearningApp.swift in Sources */,
 				BE0B8CA62C440681009B2189 /* Hexgonal.swift in Sources */,
 			);
