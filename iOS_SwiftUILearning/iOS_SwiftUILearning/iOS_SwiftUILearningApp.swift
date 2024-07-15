@@ -11,7 +11,8 @@ import SwiftUI
 struct iOS_SwiftUILearningApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+           // ContentView()
+            MyForms()
         }
     }
 }
