@@ -20,7 +20,8 @@ struct iOS_SwiftUILearningApp: App {
            // Textfieldview()
            // ColorsAndFrames()
            // GradientColor()
-            ButtonAndImage()
+            //ButtonAndImage()
+            Alertview()
         }
     }
 }
