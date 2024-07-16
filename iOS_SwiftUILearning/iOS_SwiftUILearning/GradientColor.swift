@@ -18,7 +18,8 @@ struct GradientColor: View {
         //RadialGradient
         
         RadialGradient(gradient: Gradient(colors: [.blue,.black]), center: .center, startRadius: 20, endRadius: 300)
-        
+            .ignoresSafeArea()
+
         AngularGradient(gradient: Gradient(colors: [.brown,.green,.red, .blue,.yellow]), center: .center)
         
         
