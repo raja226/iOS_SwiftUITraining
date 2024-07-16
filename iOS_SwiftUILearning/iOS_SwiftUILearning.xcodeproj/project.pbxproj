@@ -21,6 +21,7 @@
 		BE0B8CB42C464566009B2189 /* StacksView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CB32C464566009B2189 /* StacksView.swift */; };
 		BE0B8CB62C464F66009B2189 /* ColorsAndFrames.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CB52C464F66009B2189 /* ColorsAndFrames.swift */; };
 		BE0B8CB82C46561B009B2189 /* GradientColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CB72C46561B009B2189 /* GradientColor.swift */; };
+		BE0B8CBA2C468861009B2189 /* ButtonAndImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CB92C468861009B2189 /* ButtonAndImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		BE0B8CB32C464566009B2189 /* StacksView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksView.swift; sourceTree = "<group>"; };
 		BE0B8CB52C464F66009B2189 /* ColorsAndFrames.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsAndFrames.swift; sourceTree = "<group>"; };
 		BE0B8CB72C46561B009B2189 /* GradientColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientColor.swift; sourceTree = "<group>"; };
+		BE0B8CB92C468861009B2189 /* ButtonAndImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonAndImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 				BE0B8CB52C464F66009B2189 /* ColorsAndFrames.swift */,
 				BE0B8CA52C440681009B2189 /* Hexgonal.swift */,
 				BE0B8CB72C46561B009B2189 /* GradientColor.swift */,
+				BE0B8CB92C468861009B2189 /* ButtonAndImage.swift */,
 				BE0B8C9A2C43B273009B2189 /* Assets.xcassets */,
 				BE0B8C9C2C43B273009B2189 /* iOS_SwiftUILearning.entitlements */,
 				BE0B8C9D2C43B273009B2189 /* Preview Content */,
@@ -173,6 +176,7 @@
 				BE0B8C992C43B266009B2189 /* ContentView.swift in Sources */,
 				BE0B8CA82C454175009B2189 /* MyForms.swift in Sources */,
 				BE0B8CAA2C455B6C009B2189 /* StateVarialble.swift in Sources */,
+				BE0B8CBA2C468861009B2189 /* ButtonAndImage.swift in Sources */,
 				BE0B8CAC2C455F01009B2189 /* StateBinding.swift in Sources */,
 				BE0B8CB02C45A87D009B2189 /* PickerView.swift in Sources */,
 				BE0B8CB42C464566009B2189 /* StacksView.swift in Sources */,

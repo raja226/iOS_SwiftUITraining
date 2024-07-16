@@ -19,7 +19,8 @@ struct iOS_SwiftUILearningApp: App {
            //PickerView()
            // Textfieldview()
            // ColorsAndFrames()
-            GradientColor()
+           // GradientColor()
+            ButtonAndImage()
         }
     }
 }
