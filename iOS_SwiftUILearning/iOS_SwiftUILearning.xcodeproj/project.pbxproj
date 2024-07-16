@@ -18,6 +18,7 @@
 		BE0B8CAE2C45A490009B2189 /* CreatingviewsInLoop.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CAD2C45A490009B2189 /* CreatingviewsInLoop.swift */; };
 		BE0B8CB02C45A87D009B2189 /* PickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CAF2C45A87D009B2189 /* PickerView.swift */; };
 		BE0B8CB22C45B04A009B2189 /* Textfieldview.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CB12C45B04A009B2189 /* Textfieldview.swift */; };
+		BE0B8CB42C464566009B2189 /* StacksView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CB32C464566009B2189 /* StacksView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		BE0B8CAD2C45A490009B2189 /* CreatingviewsInLoop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatingviewsInLoop.swift; sourceTree = "<group>"; };
 		BE0B8CAF2C45A87D009B2189 /* PickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerView.swift; sourceTree = "<group>"; };
 		BE0B8CB12C45B04A009B2189 /* Textfieldview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Textfieldview.swift; sourceTree = "<group>"; };
+		BE0B8CB32C464566009B2189 /* StacksView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				BE0B8CAD2C45A490009B2189 /* CreatingviewsInLoop.swift */,
 				BE0B8CAF2C45A87D009B2189 /* PickerView.swift */,
 				BE0B8CB12C45B04A009B2189 /* Textfieldview.swift */,
+				BE0B8CB32C464566009B2189 /* StacksView.swift */,
 				BE0B8CA52C440681009B2189 /* Hexgonal.swift */,
 				BE0B8C9A2C43B273009B2189 /* Assets.xcassets */,
 				BE0B8C9C2C43B273009B2189 /* iOS_SwiftUILearning.entitlements */,
@@ -165,6 +168,7 @@
 				BE0B8CAA2C455B6C009B2189 /* StateVarialble.swift in Sources */,
 				BE0B8CAC2C455F01009B2189 /* StateBinding.swift in Sources */,
 				BE0B8CB02C45A87D009B2189 /* PickerView.swift in Sources */,
+				BE0B8CB42C464566009B2189 /* StacksView.swift in Sources */,
 				BE0B8C972C43B266009B2189 /* iOS_SwiftUILearningApp.swift in Sources */,
 				BE0B8CA62C440681009B2189 /* Hexgonal.swift in Sources */,
 				BE0B8CB22C45B04A009B2189 /* Textfieldview.swift in Sources */,
