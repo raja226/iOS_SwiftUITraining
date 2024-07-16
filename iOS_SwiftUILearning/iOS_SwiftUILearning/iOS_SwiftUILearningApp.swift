@@ -17,7 +17,9 @@ struct iOS_SwiftUILearningApp: App {
            // StateBinding()
            //CreatingviewsInLoop()
            //PickerView()
-            Textfieldview()
+           // Textfieldview()
+           // ColorsAndFrames()
+            GradientColor()
         }
     }
 }
