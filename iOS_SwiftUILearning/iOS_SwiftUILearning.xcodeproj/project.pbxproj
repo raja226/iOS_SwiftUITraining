@@ -23,6 +23,7 @@
 		BE0B8CB82C46561B009B2189 /* GradientColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CB72C46561B009B2189 /* GradientColor.swift */; };
 		BE0B8CBA2C468861009B2189 /* ButtonAndImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CB92C468861009B2189 /* ButtonAndImage.swift */; };
 		BE0B8CBC2C46A0B2009B2189 /* Alertview.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CBB2C46A0B1009B2189 /* Alertview.swift */; };
+		BE0B8CBE2C4754EE009B2189 /* Backgroundcolor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CBD2C4754EE009B2189 /* Backgroundcolor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		BE0B8CB72C46561B009B2189 /* GradientColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientColor.swift; sourceTree = "<group>"; };
 		BE0B8CB92C468861009B2189 /* ButtonAndImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonAndImage.swift; sourceTree = "<group>"; };
 		BE0B8CBB2C46A0B1009B2189 /* Alertview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alertview.swift; sourceTree = "<group>"; };
+		BE0B8CBD2C4754EE009B2189 /* Backgroundcolor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Backgroundcolor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 				BE0B8CB72C46561B009B2189 /* GradientColor.swift */,
 				BE0B8CB92C468861009B2189 /* ButtonAndImage.swift */,
 				BE0B8CBB2C46A0B1009B2189 /* Alertview.swift */,
+				BE0B8CBD2C4754EE009B2189 /* Backgroundcolor.swift */,
 				BE0B8C9A2C43B273009B2189 /* Assets.xcassets */,
 				BE0B8C9C2C43B273009B2189 /* iOS_SwiftUILearning.entitlements */,
 				BE0B8C9D2C43B273009B2189 /* Preview Content */,
@@ -175,6 +178,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BE0B8CBE2C4754EE009B2189 /* Backgroundcolor.swift in Sources */,
 				BE0B8CB62C464F66009B2189 /* ColorsAndFrames.swift in Sources */,
 				BE0B8C992C43B266009B2189 /* ContentView.swift in Sources */,
 				BE0B8CA82C454175009B2189 /* MyForms.swift in Sources */,
