@@ -21,7 +21,8 @@ struct iOS_SwiftUILearningApp: App {
            // ColorsAndFrames()
            // GradientColor()
             //ButtonAndImage()
-            Alertview()
+           // Alertview()
+            ConditionalModifier()
         }
     }
 }
