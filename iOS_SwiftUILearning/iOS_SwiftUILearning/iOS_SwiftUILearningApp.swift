@@ -22,7 +22,8 @@ struct iOS_SwiftUILearningApp: App {
            // GradientColor()
             //ButtonAndImage()
            // Alertview()
-            ConditionalModifier()
+            //ConditionalModifier()
+            StepperView()
         }
     }
 }

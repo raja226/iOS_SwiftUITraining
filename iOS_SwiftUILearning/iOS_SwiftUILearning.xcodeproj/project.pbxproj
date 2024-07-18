@@ -28,6 +28,7 @@
 		BE0B8CC22C47F01D009B2189 /* ViewesAndProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CC12C47F01D009B2189 /* ViewesAndProperties.swift */; };
 		BE0B8CC42C47F559009B2189 /* ViewComposition.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CC32C47F559009B2189 /* ViewComposition.swift */; };
 		BE0B8CC62C48880D009B2189 /* ViewModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CC52C48880D009B2189 /* ViewModifiers.swift */; };
+		BE0B8CC82C48913B009B2189 /* StepperView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CC72C48913B009B2189 /* StepperView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +55,7 @@
 		BE0B8CC12C47F01D009B2189 /* ViewesAndProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewesAndProperties.swift; sourceTree = "<group>"; };
 		BE0B8CC32C47F559009B2189 /* ViewComposition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewComposition.swift; sourceTree = "<group>"; };
 		BE0B8CC52C48880D009B2189 /* ViewModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifiers.swift; sourceTree = "<group>"; };
+		BE0B8CC72C48913B009B2189 /* StepperView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				BE0B8CC12C47F01D009B2189 /* ViewesAndProperties.swift */,
 				BE0B8CC32C47F559009B2189 /* ViewComposition.swift */,
 				BE0B8CC52C48880D009B2189 /* ViewModifiers.swift */,
+				BE0B8CC72C48913B009B2189 /* StepperView.swift */,
 				BE0B8C9A2C43B273009B2189 /* Assets.xcassets */,
 				BE0B8C9C2C43B273009B2189 /* iOS_SwiftUILearning.entitlements */,
 				BE0B8C9D2C43B273009B2189 /* Preview Content */,
@@ -197,6 +200,7 @@
 				BE0B8CA82C454175009B2189 /* MyForms.swift in Sources */,
 				BE0B8CBC2C46A0B2009B2189 /* Alertview.swift in Sources */,
 				BE0B8CAA2C455B6C009B2189 /* StateVarialble.swift in Sources */,
+				BE0B8CC82C48913B009B2189 /* StepperView.swift in Sources */,
 				BE0B8CBA2C468861009B2189 /* ButtonAndImage.swift in Sources */,
 				BE0B8CC22C47F01D009B2189 /* ViewesAndProperties.swift in Sources */,
 				BE0B8CC02C47A800009B2189 /* ConditionalModifier.swift in Sources */,
