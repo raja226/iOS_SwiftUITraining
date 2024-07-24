@@ -23,7 +23,9 @@ struct iOS_SwiftUILearningApp: App {
             //ButtonAndImage()
            // Alertview()
             //ConditionalModifier()
-            StepperView()
+            //StepperView()
+           // DatePickerView()
+            ListView()
         }
     }
 }

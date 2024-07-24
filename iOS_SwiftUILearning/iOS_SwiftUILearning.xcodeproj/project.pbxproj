@@ -29,6 +29,8 @@
 		BE0B8CC42C47F559009B2189 /* ViewComposition.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CC32C47F559009B2189 /* ViewComposition.swift */; };
 		BE0B8CC62C48880D009B2189 /* ViewModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CC52C48880D009B2189 /* ViewModifiers.swift */; };
 		BE0B8CC82C48913B009B2189 /* StepperView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CC72C48913B009B2189 /* StepperView.swift */; };
+		BE0B8CCA2C4895B3009B2189 /* DatePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CC92C4895B3009B2189 /* DatePickerView.swift */; };
+		BE72827C2C4E910B00F469DF /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE72827B2C4E910B00F469DF /* ListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +58,8 @@
 		BE0B8CC32C47F559009B2189 /* ViewComposition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewComposition.swift; sourceTree = "<group>"; };
 		BE0B8CC52C48880D009B2189 /* ViewModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifiers.swift; sourceTree = "<group>"; };
 		BE0B8CC72C48913B009B2189 /* StepperView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperView.swift; sourceTree = "<group>"; };
+		BE0B8CC92C4895B3009B2189 /* DatePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerView.swift; sourceTree = "<group>"; };
+		BE72827B2C4E910B00F469DF /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +112,8 @@
 				BE0B8CC32C47F559009B2189 /* ViewComposition.swift */,
 				BE0B8CC52C48880D009B2189 /* ViewModifiers.swift */,
 				BE0B8CC72C48913B009B2189 /* StepperView.swift */,
+				BE0B8CC92C4895B3009B2189 /* DatePickerView.swift */,
+				BE72827B2C4E910B00F469DF /* ListView.swift */,
 				BE0B8C9A2C43B273009B2189 /* Assets.xcassets */,
 				BE0B8C9C2C43B273009B2189 /* iOS_SwiftUILearning.entitlements */,
 				BE0B8C9D2C43B273009B2189 /* Preview Content */,
@@ -201,6 +207,7 @@
 				BE0B8CBC2C46A0B2009B2189 /* Alertview.swift in Sources */,
 				BE0B8CAA2C455B6C009B2189 /* StateVarialble.swift in Sources */,
 				BE0B8CC82C48913B009B2189 /* StepperView.swift in Sources */,
+				BE72827C2C4E910B00F469DF /* ListView.swift in Sources */,
 				BE0B8CBA2C468861009B2189 /* ButtonAndImage.swift in Sources */,
 				BE0B8CC22C47F01D009B2189 /* ViewesAndProperties.swift in Sources */,
 				BE0B8CC02C47A800009B2189 /* ConditionalModifier.swift in Sources */,
@@ -211,6 +218,7 @@
 				BE0B8CC42C47F559009B2189 /* ViewComposition.swift in Sources */,
 				BE0B8C972C43B266009B2189 /* iOS_SwiftUILearningApp.swift in Sources */,
 				BE0B8CA62C440681009B2189 /* Hexgonal.swift in Sources */,
+				BE0B8CCA2C4895B3009B2189 /* DatePickerView.swift in Sources */,
 				BE0B8CB22C45B04A009B2189 /* Textfieldview.swift in Sources */,
 				BE0B8CAE2C45A490009B2189 /* CreatingviewsInLoop.swift in Sources */,
 			);
