@@ -31,6 +31,7 @@
 		BE0B8CC82C48913B009B2189 /* StepperView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CC72C48913B009B2189 /* StepperView.swift */; };
 		BE0B8CCA2C4895B3009B2189 /* DatePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CC92C4895B3009B2189 /* DatePickerView.swift */; };
 		BE72827C2C4E910B00F469DF /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE72827B2C4E910B00F469DF /* ListView.swift */; };
+		BE72827E2C511C0100F469DF /* CustumStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE72827D2C511C0100F469DF /* CustumStrings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,6 +61,7 @@
 		BE0B8CC72C48913B009B2189 /* StepperView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperView.swift; sourceTree = "<group>"; };
 		BE0B8CC92C4895B3009B2189 /* DatePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerView.swift; sourceTree = "<group>"; };
 		BE72827B2C4E910B00F469DF /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
+		BE72827D2C511C0100F469DF /* CustumStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustumStrings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 				BE0B8CC72C48913B009B2189 /* StepperView.swift */,
 				BE0B8CC92C4895B3009B2189 /* DatePickerView.swift */,
 				BE72827B2C4E910B00F469DF /* ListView.swift */,
+				BE72827D2C511C0100F469DF /* CustumStrings.swift */,
 				BE0B8C9A2C43B273009B2189 /* Assets.xcassets */,
 				BE0B8C9C2C43B273009B2189 /* iOS_SwiftUILearning.entitlements */,
 				BE0B8C9D2C43B273009B2189 /* Preview Content */,
@@ -211,6 +214,7 @@
 				BE0B8CBA2C468861009B2189 /* ButtonAndImage.swift in Sources */,
 				BE0B8CC22C47F01D009B2189 /* ViewesAndProperties.swift in Sources */,
 				BE0B8CC02C47A800009B2189 /* ConditionalModifier.swift in Sources */,
+				BE72827E2C511C0100F469DF /* CustumStrings.swift in Sources */,
 				BE0B8CAC2C455F01009B2189 /* StateBinding.swift in Sources */,
 				BE0B8CB02C45A87D009B2189 /* PickerView.swift in Sources */,
 				BE0B8CB42C464566009B2189 /* StacksView.swift in Sources */,

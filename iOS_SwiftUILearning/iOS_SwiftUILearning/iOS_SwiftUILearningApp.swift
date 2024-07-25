@@ -25,7 +25,8 @@ struct iOS_SwiftUILearningApp: App {
             //ConditionalModifier()
             //StepperView()
            // DatePickerView()
-            ListView()
+            //ListView()
+            CustumStrings()
         }
     }
 }
