@@ -37,6 +37,8 @@
 		BE7282BA2C664A8F00F469DF /* ShapesBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282B92C664A8F00F469DF /* ShapesBootCamp.swift */; };
 		BE7282BC2C66FF7F00F469DF /* ColorsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282BB2C66FF7F00F469DF /* ColorsBootCamp.swift */; };
 		BE7282BE2C682FE900F469DF /* IconBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282BD2C682FE900F469DF /* IconBootCamp.swift */; };
+		BE7282C02C68E18A00F469DF /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282BF2C68E18A00F469DF /* SpacerBootcamp.swift */; };
+		BE7282C22C69127000F469DF /* InitBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282C12C69127000F469DF /* InitBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -73,6 +75,8 @@
 		BE7282B92C664A8F00F469DF /* ShapesBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootCamp.swift; sourceTree = "<group>"; };
 		BE7282BB2C66FF7F00F469DF /* ColorsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootCamp.swift; sourceTree = "<group>"; };
 		BE7282BD2C682FE900F469DF /* IconBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconBootCamp.swift; sourceTree = "<group>"; };
+		BE7282BF2C68E18A00F469DF /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
+		BE7282C12C69127000F469DF /* InitBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +115,8 @@
 				BE7282B92C664A8F00F469DF /* ShapesBootCamp.swift */,
 				BE7282BB2C66FF7F00F469DF /* ColorsBootCamp.swift */,
 				BE7282BD2C682FE900F469DF /* IconBootCamp.swift */,
+				BE7282BF2C68E18A00F469DF /* SpacerBootcamp.swift */,
+				BE7282C12C69127000F469DF /* InitBootcamp.swift */,
 				BE0B8CA72C454175009B2189 /* MyForms.swift */,
 				BE0B8CA92C455B6C009B2189 /* StateVarialble.swift */,
 				BE0B8CAB2C455F01009B2189 /* StateBinding.swift */,
@@ -241,7 +247,9 @@
 				BE0B8CB82C46561B009B2189 /* GradientColor.swift in Sources */,
 				BE0B8CC42C47F559009B2189 /* ViewComposition.swift in Sources */,
 				BE7282822C5B81D000F469DF /* SwiftUIView.swift in Sources */,
+				BE7282C02C68E18A00F469DF /* SpacerBootcamp.swift in Sources */,
 				BE0B8C972C43B266009B2189 /* iOS_SwiftUILearningApp.swift in Sources */,
+				BE7282C22C69127000F469DF /* InitBootcamp.swift in Sources */,
 				BE7282BE2C682FE900F469DF /* IconBootCamp.swift in Sources */,
 				BE0B8CA62C440681009B2189 /* Hexgonal.swift in Sources */,
 				BE0B8CCA2C4895B3009B2189 /* DatePickerView.swift in Sources */,
