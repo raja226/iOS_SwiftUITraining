@@ -32,6 +32,11 @@
 		BE0B8CCA2C4895B3009B2189 /* DatePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8CC92C4895B3009B2189 /* DatePickerView.swift */; };
 		BE72827C2C4E910B00F469DF /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE72827B2C4E910B00F469DF /* ListView.swift */; };
 		BE72827E2C511C0100F469DF /* CustumStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE72827D2C511C0100F469DF /* CustumStrings.swift */; };
+		BE7282802C528E5E00F469DF /* NavigationLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE72827F2C528E5E00F469DF /* NavigationLinkView.swift */; };
+		BE7282822C5B81D000F469DF /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282812C5B81D000F469DF /* SwiftUIView.swift */; };
+		BE7282BA2C664A8F00F469DF /* ShapesBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282B92C664A8F00F469DF /* ShapesBootCamp.swift */; };
+		BE7282BC2C66FF7F00F469DF /* ColorsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282BB2C66FF7F00F469DF /* ColorsBootCamp.swift */; };
+		BE7282BE2C682FE900F469DF /* IconBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282BD2C682FE900F469DF /* IconBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -62,6 +67,12 @@
 		BE0B8CC92C4895B3009B2189 /* DatePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerView.swift; sourceTree = "<group>"; };
 		BE72827B2C4E910B00F469DF /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
 		BE72827D2C511C0100F469DF /* CustumStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustumStrings.swift; sourceTree = "<group>"; };
+		BE72827F2C528E5E00F469DF /* NavigationLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationLinkView.swift; sourceTree = "<group>"; };
+		BE7282812C5B81D000F469DF /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		BE7282832C6373AA00F469DF /* iOS-SwiftUILearning-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "iOS-SwiftUILearning-Info.plist"; sourceTree = SOURCE_ROOT; };
+		BE7282B92C664A8F00F469DF /* ShapesBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootCamp.swift; sourceTree = "<group>"; };
+		BE7282BB2C66FF7F00F469DF /* ColorsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootCamp.swift; sourceTree = "<group>"; };
+		BE7282BD2C682FE900F469DF /* IconBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,8 +105,12 @@
 		BE0B8C952C43B266009B2189 /* iOS_SwiftUILearning */ = {
 			isa = PBXGroup;
 			children = (
+				BE7282832C6373AA00F469DF /* iOS-SwiftUILearning-Info.plist */,
 				BE0B8C962C43B266009B2189 /* iOS_SwiftUILearningApp.swift */,
 				BE0B8C982C43B266009B2189 /* ContentView.swift */,
+				BE7282B92C664A8F00F469DF /* ShapesBootCamp.swift */,
+				BE7282BB2C66FF7F00F469DF /* ColorsBootCamp.swift */,
+				BE7282BD2C682FE900F469DF /* IconBootCamp.swift */,
 				BE0B8CA72C454175009B2189 /* MyForms.swift */,
 				BE0B8CA92C455B6C009B2189 /* StateVarialble.swift */,
 				BE0B8CAB2C455F01009B2189 /* StateBinding.swift */,
@@ -117,6 +132,8 @@
 				BE0B8CC92C4895B3009B2189 /* DatePickerView.swift */,
 				BE72827B2C4E910B00F469DF /* ListView.swift */,
 				BE72827D2C511C0100F469DF /* CustumStrings.swift */,
+				BE72827F2C528E5E00F469DF /* NavigationLinkView.swift */,
+				BE7282812C5B81D000F469DF /* SwiftUIView.swift */,
 				BE0B8C9A2C43B273009B2189 /* Assets.xcassets */,
 				BE0B8C9C2C43B273009B2189 /* iOS_SwiftUILearning.entitlements */,
 				BE0B8C9D2C43B273009B2189 /* Preview Content */,
@@ -208,19 +225,24 @@
 				BE0B8CC62C48880D009B2189 /* ViewModifiers.swift in Sources */,
 				BE0B8CA82C454175009B2189 /* MyForms.swift in Sources */,
 				BE0B8CBC2C46A0B2009B2189 /* Alertview.swift in Sources */,
+				BE7282BC2C66FF7F00F469DF /* ColorsBootCamp.swift in Sources */,
 				BE0B8CAA2C455B6C009B2189 /* StateVarialble.swift in Sources */,
 				BE0B8CC82C48913B009B2189 /* StepperView.swift in Sources */,
+				BE7282BA2C664A8F00F469DF /* ShapesBootCamp.swift in Sources */,
 				BE72827C2C4E910B00F469DF /* ListView.swift in Sources */,
 				BE0B8CBA2C468861009B2189 /* ButtonAndImage.swift in Sources */,
 				BE0B8CC22C47F01D009B2189 /* ViewesAndProperties.swift in Sources */,
 				BE0B8CC02C47A800009B2189 /* ConditionalModifier.swift in Sources */,
+				BE7282802C528E5E00F469DF /* NavigationLinkView.swift in Sources */,
 				BE72827E2C511C0100F469DF /* CustumStrings.swift in Sources */,
 				BE0B8CAC2C455F01009B2189 /* StateBinding.swift in Sources */,
 				BE0B8CB02C45A87D009B2189 /* PickerView.swift in Sources */,
 				BE0B8CB42C464566009B2189 /* StacksView.swift in Sources */,
 				BE0B8CB82C46561B009B2189 /* GradientColor.swift in Sources */,
 				BE0B8CC42C47F559009B2189 /* ViewComposition.swift in Sources */,
+				BE7282822C5B81D000F469DF /* SwiftUIView.swift in Sources */,
 				BE0B8C972C43B266009B2189 /* iOS_SwiftUILearningApp.swift in Sources */,
+				BE7282BE2C682FE900F469DF /* IconBootCamp.swift in Sources */,
 				BE0B8CA62C440681009B2189 /* Hexgonal.swift in Sources */,
 				BE0B8CCA2C4895B3009B2189 /* DatePickerView.swift in Sources */,
 				BE0B8CB22C45B04A009B2189 /* Textfieldview.swift in Sources */,
@@ -358,6 +380,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "iOS-SwiftUILearning-Info.plist";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -396,6 +419,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "iOS-SwiftUILearning-Info.plist";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
