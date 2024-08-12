@@ -39,6 +39,9 @@
 		BE7282BE2C682FE900F469DF /* IconBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282BD2C682FE900F469DF /* IconBootCamp.swift */; };
 		BE7282C02C68E18A00F469DF /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282BF2C68E18A00F469DF /* SpacerBootcamp.swift */; };
 		BE7282C22C69127000F469DF /* InitBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282C12C69127000F469DF /* InitBootcamp.swift */; };
+		BE7282C42C6924DF00F469DF /* ForeachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282C32C6924DF00F469DF /* ForeachBootcamp.swift */; };
+		BE7282C62C69ACF200F469DF /* ScrollviewBootmap.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282C52C69ACF200F469DF /* ScrollviewBootmap.swift */; };
+		BE7282C82C69E8C500F469DF /* GridBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282C72C69E8C500F469DF /* GridBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -77,6 +80,9 @@
 		BE7282BD2C682FE900F469DF /* IconBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconBootCamp.swift; sourceTree = "<group>"; };
 		BE7282BF2C68E18A00F469DF /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
 		BE7282C12C69127000F469DF /* InitBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitBootcamp.swift; sourceTree = "<group>"; };
+		BE7282C32C6924DF00F469DF /* ForeachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForeachBootcamp.swift; sourceTree = "<group>"; };
+		BE7282C52C69ACF200F469DF /* ScrollviewBootmap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollviewBootmap.swift; sourceTree = "<group>"; };
+		BE7282C72C69E8C500F469DF /* GridBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +123,9 @@
 				BE7282BD2C682FE900F469DF /* IconBootCamp.swift */,
 				BE7282BF2C68E18A00F469DF /* SpacerBootcamp.swift */,
 				BE7282C12C69127000F469DF /* InitBootcamp.swift */,
+				BE7282C32C6924DF00F469DF /* ForeachBootcamp.swift */,
+				BE7282C52C69ACF200F469DF /* ScrollviewBootmap.swift */,
+				BE7282C72C69E8C500F469DF /* GridBootCamp.swift */,
 				BE0B8CA72C454175009B2189 /* MyForms.swift */,
 				BE0B8CA92C455B6C009B2189 /* StateVarialble.swift */,
 				BE0B8CAB2C455F01009B2189 /* StateBinding.swift */,
@@ -230,6 +239,7 @@
 				BE0B8C992C43B266009B2189 /* ContentView.swift in Sources */,
 				BE0B8CC62C48880D009B2189 /* ViewModifiers.swift in Sources */,
 				BE0B8CA82C454175009B2189 /* MyForms.swift in Sources */,
+				BE7282C42C6924DF00F469DF /* ForeachBootcamp.swift in Sources */,
 				BE0B8CBC2C46A0B2009B2189 /* Alertview.swift in Sources */,
 				BE7282BC2C66FF7F00F469DF /* ColorsBootCamp.swift in Sources */,
 				BE0B8CAA2C455B6C009B2189 /* StateVarialble.swift in Sources */,
@@ -238,11 +248,13 @@
 				BE72827C2C4E910B00F469DF /* ListView.swift in Sources */,
 				BE0B8CBA2C468861009B2189 /* ButtonAndImage.swift in Sources */,
 				BE0B8CC22C47F01D009B2189 /* ViewesAndProperties.swift in Sources */,
+				BE7282C62C69ACF200F469DF /* ScrollviewBootmap.swift in Sources */,
 				BE0B8CC02C47A800009B2189 /* ConditionalModifier.swift in Sources */,
 				BE7282802C528E5E00F469DF /* NavigationLinkView.swift in Sources */,
 				BE72827E2C511C0100F469DF /* CustumStrings.swift in Sources */,
 				BE0B8CAC2C455F01009B2189 /* StateBinding.swift in Sources */,
 				BE0B8CB02C45A87D009B2189 /* PickerView.swift in Sources */,
+				BE7282C82C69E8C500F469DF /* GridBootCamp.swift in Sources */,
 				BE0B8CB42C464566009B2189 /* StacksView.swift in Sources */,
 				BE0B8CB82C46561B009B2189 /* GradientColor.swift in Sources */,
 				BE0B8CC42C47F559009B2189 /* ViewComposition.swift in Sources */,

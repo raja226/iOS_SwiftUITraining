@@ -28,7 +28,9 @@ struct iOS_SwiftUILearningApp: App {
             //ListView()
            // CustumStrings()
             //NavigationLinkView()
-            SwiftUIView()
+           // SwiftUIView()
+            //ScrollviewBootmap()
+            GridBootCamp()
         }
     }
 }
