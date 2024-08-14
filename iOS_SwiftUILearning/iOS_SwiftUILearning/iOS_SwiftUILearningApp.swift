@@ -30,7 +30,11 @@ struct iOS_SwiftUILearningApp: App {
             //NavigationLinkView()
            // SwiftUIView()
             //ScrollviewBootmap()
-            GridBootCamp()
+            //GridBootCamp()
+            //ButtonsBootcamp()
+            //ExtractFunctionsBootcamp()
+            //BindingBootcamp()
+            ConditionalBootcamp()
         }
     }
 }
