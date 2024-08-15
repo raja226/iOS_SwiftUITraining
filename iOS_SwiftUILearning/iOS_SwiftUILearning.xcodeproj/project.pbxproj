@@ -50,6 +50,7 @@
 		BE7282D42C6CB56B00F469DF /* TextFieldBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282D32C6CB56B00F469DF /* TextFieldBootCamp.swift */; };
 		BE7282D62C6D84ED00F469DF /* TextEditBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282D52C6D84ED00F469DF /* TextEditBootCamp.swift */; };
 		BE7282D82C6D8C3400F469DF /* ToggleBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282D72C6D8C3400F469DF /* ToggleBootCamp.swift */; };
+		BE7282DA2C6DF41400F469DF /* PickerviewBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282D92C6DF41400F469DF /* PickerviewBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -99,6 +100,7 @@
 		BE7282D32C6CB56B00F469DF /* TextFieldBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldBootCamp.swift; sourceTree = "<group>"; };
 		BE7282D52C6D84ED00F469DF /* TextEditBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditBootCamp.swift; sourceTree = "<group>"; };
 		BE7282D72C6D8C3400F469DF /* ToggleBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleBootCamp.swift; sourceTree = "<group>"; };
+		BE7282D92C6DF41400F469DF /* PickerviewBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerviewBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 				BE7282D32C6CB56B00F469DF /* TextFieldBootCamp.swift */,
 				BE7282D52C6D84ED00F469DF /* TextEditBootCamp.swift */,
 				BE7282D72C6D8C3400F469DF /* ToggleBootCamp.swift */,
+				BE7282D92C6DF41400F469DF /* PickerviewBootCamp.swift */,
 				BE0B8CA72C454175009B2189 /* MyForms.swift */,
 				BE0B8CA92C455B6C009B2189 /* StateVarialble.swift */,
 				BE0B8CAB2C455F01009B2189 /* StateBinding.swift */,
@@ -271,6 +274,7 @@
 				BE7282CC2C6A2CE600F469DF /* ExtractFunctionsBootcamp.swift in Sources */,
 				BE7282D22C6A65D900F469DF /* SheetBootCamp.swift in Sources */,
 				BE0B8CAA2C455B6C009B2189 /* StateVarialble.swift in Sources */,
+				BE7282DA2C6DF41400F469DF /* PickerviewBootCamp.swift in Sources */,
 				BE0B8CC82C48913B009B2189 /* StepperView.swift in Sources */,
 				BE7282BA2C664A8F00F469DF /* ShapesBootCamp.swift in Sources */,
 				BE72827C2C4E910B00F469DF /* ListView.swift in Sources */,
