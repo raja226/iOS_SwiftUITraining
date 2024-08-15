@@ -52,14 +52,9 @@ struct PickerviewBootCamp: View {
             .padding(50)
             .font(.headline)
     }
+        .frame(maxWidth: .infinity , maxHeight: .infinity)
         .background(selectColor)
-        .frame(width: .infinity, height: .infinity)
-        
-        Spacer()
-        
-        
-    
-        
+
     }
 }
 
