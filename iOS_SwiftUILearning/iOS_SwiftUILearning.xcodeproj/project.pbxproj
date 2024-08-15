@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BE03B1972C6E119100D11717 /* DatePickerBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE03B1962C6E119100D11717 /* DatePickerBootCamp.swift */; };
 		BE0B8C972C43B266009B2189 /* iOS_SwiftUILearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8C962C43B266009B2189 /* iOS_SwiftUILearningApp.swift */; };
 		BE0B8C992C43B266009B2189 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0B8C982C43B266009B2189 /* ContentView.swift */; };
 		BE0B8C9B2C43B273009B2189 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE0B8C9A2C43B273009B2189 /* Assets.xcassets */; };
@@ -54,6 +55,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BE03B1962C6E119100D11717 /* DatePickerBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerBootCamp.swift; sourceTree = "<group>"; };
 		BE0B8C932C43B266009B2189 /* iOS_SwiftUILearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOS_SwiftUILearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE0B8C962C43B266009B2189 /* iOS_SwiftUILearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS_SwiftUILearningApp.swift; sourceTree = "<group>"; };
 		BE0B8C982C43B266009B2189 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -153,6 +155,7 @@
 				BE7282D52C6D84ED00F469DF /* TextEditBootCamp.swift */,
 				BE7282D72C6D8C3400F469DF /* ToggleBootCamp.swift */,
 				BE7282D92C6DF41400F469DF /* PickerviewBootCamp.swift */,
+				BE03B1962C6E119100D11717 /* DatePickerBootCamp.swift */,
 				BE0B8CA72C454175009B2189 /* MyForms.swift */,
 				BE0B8CA92C455B6C009B2189 /* StateVarialble.swift */,
 				BE0B8CAB2C455F01009B2189 /* StateBinding.swift */,
@@ -287,6 +290,7 @@
 				BE72827E2C511C0100F469DF /* CustumStrings.swift in Sources */,
 				BE0B8CAC2C455F01009B2189 /* StateBinding.swift in Sources */,
 				BE0B8CB02C45A87D009B2189 /* PickerView.swift in Sources */,
+				BE03B1972C6E119100D11717 /* DatePickerBootCamp.swift in Sources */,
 				BE7282C82C69E8C500F469DF /* GridBootCamp.swift in Sources */,
 				BE0B8CB42C464566009B2189 /* StacksView.swift in Sources */,
 				BE0B8CB82C46561B009B2189 /* GradientColor.swift in Sources */,
