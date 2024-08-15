@@ -48,6 +48,7 @@
 		BE7282D02C6A4C0A00F469DF /* ConditionalBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282CF2C6A4C0A00F469DF /* ConditionalBootcamp.swift */; };
 		BE7282D22C6A65D900F469DF /* SheetBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282D12C6A65D900F469DF /* SheetBootCamp.swift */; };
 		BE7282D42C6CB56B00F469DF /* TextFieldBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282D32C6CB56B00F469DF /* TextFieldBootCamp.swift */; };
+		BE7282D62C6D84ED00F469DF /* TextEditBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282D52C6D84ED00F469DF /* TextEditBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -95,6 +96,7 @@
 		BE7282CF2C6A4C0A00F469DF /* ConditionalBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalBootcamp.swift; sourceTree = "<group>"; };
 		BE7282D12C6A65D900F469DF /* SheetBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetBootCamp.swift; sourceTree = "<group>"; };
 		BE7282D32C6CB56B00F469DF /* TextFieldBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldBootCamp.swift; sourceTree = "<group>"; };
+		BE7282D52C6D84ED00F469DF /* TextEditBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,6 +146,7 @@
 				BE7282CF2C6A4C0A00F469DF /* ConditionalBootcamp.swift */,
 				BE7282D12C6A65D900F469DF /* SheetBootCamp.swift */,
 				BE7282D32C6CB56B00F469DF /* TextFieldBootCamp.swift */,
+				BE7282D52C6D84ED00F469DF /* TextEditBootCamp.swift */,
 				BE0B8CA72C454175009B2189 /* MyForms.swift */,
 				BE0B8CA92C455B6C009B2189 /* StateVarialble.swift */,
 				BE0B8CAB2C455F01009B2189 /* StateBinding.swift */,
@@ -269,6 +272,7 @@
 				BE72827C2C4E910B00F469DF /* ListView.swift in Sources */,
 				BE0B8CBA2C468861009B2189 /* ButtonAndImage.swift in Sources */,
 				BE0B8CC22C47F01D009B2189 /* ViewesAndProperties.swift in Sources */,
+				BE7282D62C6D84ED00F469DF /* TextEditBootCamp.swift in Sources */,
 				BE7282C62C69ACF200F469DF /* ScrollviewBootmap.swift in Sources */,
 				BE0B8CC02C47A800009B2189 /* ConditionalModifier.swift in Sources */,
 				BE7282802C528E5E00F469DF /* NavigationLinkView.swift in Sources */,
