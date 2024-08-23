@@ -53,6 +53,9 @@
 		BE7282D62C6D84ED00F469DF /* TextEditBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282D52C6D84ED00F469DF /* TextEditBootCamp.swift */; };
 		BE7282D82C6D8C3400F469DF /* ToggleBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282D72C6D8C3400F469DF /* ToggleBootCamp.swift */; };
 		BE7282DA2C6DF41400F469DF /* PickerviewBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7282D92C6DF41400F469DF /* PickerviewBootCamp.swift */; };
+		BED370522C7810CA00666E98 /* APITestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED370512C7810CA00666E98 /* APITestView.swift */; };
+		BED370542C78113A00666E98 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED370532C78113A00666E98 /* User.swift */; };
+		BED370562C7812C600666E98 /* UserViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED370552C7812C600666E98 /* UserViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -105,6 +108,9 @@
 		BE7282D52C6D84ED00F469DF /* TextEditBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditBootCamp.swift; sourceTree = "<group>"; };
 		BE7282D72C6D8C3400F469DF /* ToggleBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleBootCamp.swift; sourceTree = "<group>"; };
 		BE7282D92C6DF41400F469DF /* PickerviewBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerviewBootCamp.swift; sourceTree = "<group>"; };
+		BED370512C7810CA00666E98 /* APITestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APITestView.swift; sourceTree = "<group>"; };
+		BED370532C78113A00666E98 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		BED370552C7812C600666E98 /* UserViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +144,9 @@
 			isa = PBXGroup;
 			children = (
 				BE7282832C6373AA00F469DF /* iOS-SwiftUILearning-Info.plist */,
+				BED3704F2C78105100666E98 /* Model */,
+				BED370502C78106200666E98 /* ViewModel */,
+				BED3704E2C78104400666E98 /* View */,
 				BE0B8C962C43B266009B2189 /* iOS_SwiftUILearningApp.swift */,
 				BE0B8C982C43B266009B2189 /* ContentView.swift */,
 				BE7282B92C664A8F00F469DF /* ShapesBootCamp.swift */,
@@ -195,6 +204,30 @@
 				BE0B8C9E2C43B273009B2189 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		BED3704E2C78104400666E98 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				BED370512C7810CA00666E98 /* APITestView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		BED3704F2C78105100666E98 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				BED370532C78113A00666E98 /* User.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		BED370502C78106200666E98 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				BED370552C7812C600666E98 /* UserViewModel.swift */,
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -286,8 +319,11 @@
 				BE72827C2C4E910B00F469DF /* ListView.swift in Sources */,
 				BE0B8CBA2C468861009B2189 /* ButtonAndImage.swift in Sources */,
 				BE0B8CC22C47F01D009B2189 /* ViewesAndProperties.swift in Sources */,
+				BED370562C7812C600666E98 /* UserViewModel.swift in Sources */,
 				BE7282D62C6D84ED00F469DF /* TextEditBootCamp.swift in Sources */,
+				BED370522C7810CA00666E98 /* APITestView.swift in Sources */,
 				BE7282C62C69ACF200F469DF /* ScrollviewBootmap.swift in Sources */,
+				BED370542C78113A00666E98 /* User.swift in Sources */,
 				BE0B8CC02C47A800009B2189 /* ConditionalModifier.swift in Sources */,
 				BE7282802C528E5E00F469DF /* NavigationLinkView.swift in Sources */,
 				BE72827E2C511C0100F469DF /* CustumStrings.swift in Sources */,
